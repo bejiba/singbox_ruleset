@@ -1,0 +1,21 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "hoopchina.com",
+        "shihuo.cn",
+        "afpchinesesports.com",
+        "goalhi.cn",
+        "hupu.io",
+        "hupujrs.com",
+        "hupucdn.com",
+        "hellof1.com",
+        "hupu.com",
+        "vwanjia.com",
+        "hoopchina.com.cn",
+        "hupu.gg"
+      ]
+    }
+  ],
+  "version": 2
+}
